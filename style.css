@@ -137,3 +137,73 @@ body{
 .donate-section .section-title {
   margin-top: 180px;
 }
+.ag_hero_section {
+  background-image: url(./assets/images/Vector_1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.video-icon {
+  margin-top: 383px;
+}
+.ag_mission_section{
+  background-image: url(./assets/Ang/Group\ 32.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-origin: content-box;
+}
+.under-bar{
+  width: 170px;
+  height: 5px;
+  background-color: #9BCA3C;
+}
+.mt-p{
+  padding: 180px 0 10px 100px;
+}
+.mi-p{
+ padding: 100px 0 100px 100px;
+}
+.vi-p{
+  padding: 100px 0 600px 100px;
+}
+.color-t{
+  color: #9BCA3C;
+}
+.pro-bo{
+  border: 1px solid black;
+  height: 100%;
+  width: 100%;
+}
+.pro-bo-img{
+  height: 160px;
+  margin-top: 30px;
+}
+.support{
+  background-image: url(./assets/Ang/Rectangle\ 24.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-origin: content-box;
+}
+.tran-div{
+  transform: translateY(181px);
+}
+.tran-div1{
+  transform: translateY(70px);
+}
+.tran-div2{
+  transform: translateY(-10px);
+}
+.tran-div3{
+  transform: translateY(-77px);
+}
+.tran-div4{
+  transform: translateY(-135px);
+}
+.support-mt{
+  margin-top: 160px;
+}
+.btn-color{
+  background-color: #9BCA3C;
+  padding: 10px 20px;
+}
